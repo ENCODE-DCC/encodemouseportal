@@ -40,5 +40,5 @@ for key in rafile.keys():
             elif thisstanza['color'] == '65,105,225':
                 thisstanza['color'] = '11'
 
-            print "insert into MEPages_celltissuetype value (",cell_id,",'",thisstanza['label'],"','",thisstanza['label'],"','",thisstanza['term'],"',",0,",","NULL",",'",thisstanza['color'],"',",2,")"
+            print "insert into MEPages_celltissuetype value (",cell_id,",'",thisstanza['label'],"','",thisstanza['label'],"','",thisstanza['term'],"',",0,",","NULL",",'",thisstanza['color'],"',",2,");"
             cell_id +=1
