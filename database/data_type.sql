@@ -17,14 +17,14 @@ insert into MEPages_datatype values (116, 'BHLHE40','BHLHE40','transcription',16
 insert into MEPages_datatype values (117, 'CEBPB','CEBPB','transcription',170,'&hgt_mdbVar3=antibody&hgt_mdbVal3=CEBPB',NULL,4);
 insert into MEPages_datatype values (118, 'CHD1','CHD1','transcription',180,'&hgt_mdbVar3=antibody&hgt_mdbVal3=CHD1_(NB100-60411)',NULL,4);
 insert into MEPages_datatype values (119, 'CHD2','CHD2','transcription',190,'&hgt_mdbVar3=antibody&hgt_mdbVal3=CHD2_(AB68301)',NULL,4);
-insert into MEPages_datatype values (120, 'CTCF','CTCF','transcription',200,'&hgt_mdbVar3=antibody&hgt_mdbVal3=CTCF&hgt_mdbVar3=CTCF_(SC-15914)',NULL,4);
+insert into MEPages_datatype values (120, 'CTCF','CTCF','transcription',200,'&hgt_mdbVar3=antibody&hgt_mdbVal3=CTCF&hgt_mdbVal3=CTCF_(SC-15914)',NULL,4);
 insert into MEPages_datatype values (121, 'E2F4','E2F4','transcription',210,'&hgt_mdbVar3=antibody&hgt_mdbVal3=E2F4',NULL,4);
-insert into MEPages_datatype values (122, 'EP300','EP300','transcription',220,'&hgt_mdbVar3=antibody&hgt_mdbVal3=p300&hgt_mdbVar3=p300_(SC-584)',NULL,4);
+insert into MEPages_datatype values (122, 'EP300','EP300','transcription',220,'&hgt_mdbVar3=antibody&hgt_mdbVal3=p300&hgt_mdbVal3=p300_(SC-584)',NULL,4);
 insert into MEPages_datatype values (123, 'ETS1','ETS1','transcription',230,'&hgt_mdbVar3=antibody&hgt_mdbVal3=ETS1',NULL,4);
 insert into MEPages_datatype values (124, 'FLI1','FLI1','transcription',240,'&hgt_mdbVar3=antibody&hgt_mdbVal3=FLI1_(sc-356)',NULL,4);
 insert into MEPages_datatype values (125, 'FOSL1','FOSL1','transcription',250,'&hgt_mdbVar3=antibody&hgt_mdbVal3=FOSL1_(sc-605)',NULL,4);
 insert into MEPages_datatype values (126, 'GABPA','GABPA','transcription',260,'&hgt_mdbVar3=antibody&hgt_mdbVal3=Nrf2',NULL,4);
-insert into MEPages_datatype values (127, 'GATA1','GATA1','transcription',270,'&hgt_mdbVar3=antibody&hgt_mdbVal3=GATA-1&hgt_mdbVar3=GATA1_(SC-265)',NULL,4);
+insert into MEPages_datatype values (127, 'GATA1','GATA1','transcription',270,'&hgt_mdbVar3=antibody&hgt_mdbVal3=GATA-1&hgt_mdbVal3=GATA1_(SC-265)',NULL,4);
 insert into MEPages_datatype values (128, 'GATA2','GATA2','transcription',280,'&hgt_mdbVar3=antibody&hgt_mdbVal3=GATA2_(SC-9008)',NULL,4);
 insert into MEPages_datatype values (129, 'HCFC1','HCFC1','transcription',290,'&hgt_mdbVar3=antibody&hgt_mdbVal3=HCFC1_(NB100-68209)',NULL,4);
 insert into MEPages_datatype values (130, 'JUN','JUN','transcription',300,'&hgt_mdbVar3=antibody&hgt_mdbVal3=c-Jun',NULL,4);
@@ -39,7 +39,7 @@ insert into MEPages_datatype values (138, 'MYC','MYC','transcription',380,'&hgt_
 insert into MEPages_datatype values (139, 'MYOD1','MYOD1','transcription',390,'&hgt_mdbVar3=antibody&hgt_mdbVal3=MyoD_(sc-32758)',NULL,4);
 insert into MEPages_datatype values (140, 'MYOG','MYOG','transcription',400,'&hgt_mdbVar3=antibody&hgt_mdbVal3=Myogenin_(sc-12732)',NULL,4);
 insert into MEPages_datatype values (141, 'PAX5','PAX5','transcription',410,'&hgt_mdbVar3=antibody&hgt_mdbVal3=PAX5_(N-15)',NULL,4);
-insert into MEPages_datatype values (142, 'POLR2A','POLR2A','transcription',420,'&hgt_mdbVar3=antibody&hgt_mdbVal3=Pol2&hgt_mdbVar3=Pol2(phosphoS2)&hgt_mdbVal3=Pol2-4H8',NULL,4);
+insert into MEPages_datatype values (142, 'POLR2A','POLR2A','transcription',420,'&hgt_mdbVar3=antibody&hgt_mdbVal3=Pol2&hgt_mdbVal3=Pol2(phosphoS2)&hgt_mdbVal3=Pol2-4H8',NULL,4);
 insert into MEPages_datatype values (143, 'RAD21','RAD21','transcription',430,'&hgt_mdbVar3=antibody&hgt_mdbVal3=Rad21',NULL,4);
 insert into MEPages_datatype values (144, 'RCOR1','RCOR1','transcription',440,'&hgt_mdbVar3=antibody&hgt_mdbVal3=COREST_(sc-30189)',NULL,4);
 insert into MEPages_datatype values (145, 'RDBP','RDBP','transcription',450,'&hgt_mdbVar3=antibody&hgt_mdbVal3=NELFe',NULL,4);
