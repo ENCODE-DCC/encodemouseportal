@@ -451,7 +451,6 @@ insert into MEPages_celldataitem_centers values ( 2232 , 4218 , 7 );
 insert into MEPages_celldataitem values ( 4219 , 106 , 78 ,NULL,NULL,NULL);
 insert into MEPages_celldataitem_centers values ( 2233 , 4219 , 2 );
 insert into MEPages_celldataitem values ( 4220 , 106 , 79 ,NULL,NULL,NULL);
-insert into MEPages_celldataitem_centers values ( 2234 , 4220 , 5 );
 insert into MEPages_celldataitem_centers values ( 2235 , 4193 , 4 );
 insert into MEPages_celldataitem values ( 4221 , 109 , 73 ,NULL,NULL,NULL);
 insert into MEPages_celldataitem_centers values ( 2236 , 4221 , 2 );
